@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+.gt{
+    height: 400px;
+    width:100%;
+   text-align: center;
+  
+} 
+.gt img{
+    height: 150px;
+    width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+ .info{
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+    border-radius: 2px solid black;
+ }
+ .price{
+    color: red;
+ }
+ .add{
+   
+    background-color: #009efd;
+ }
+.gf{
+    width:90%;
+    height: 200px;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.gr{
+    width:90%;
+    height: 200px;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+}
