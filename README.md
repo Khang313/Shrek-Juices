@@ -1,16 +1,20 @@
 Kitchen-Appliances
-eProject-2022 Batch no: T1.2207.E1
+eProject-2022 Batch no: T2.2208.M2
 
-Project title: Kitchen Appliances
+Project title: Shrek-Juices
 
 ========> Group 01 <=========
 
 3 collaborators:
 
-Student1397174  Lý Ngọc Nhi
-Student1396931  Lý Phú
-Student1396934  Lý Quý
-Student1396507  Bùi Minh Quang
+Student1408013  Lê Châu Liêm
+
+Student1414241  Lê Phương Vinh
+
+Student1414340  Nguyễn Đoàn Gia Khang
+
+Student1414342  Dương Bình Nhã
+
 ============================
 
 eProject documentation at https://github.com/lnnhi1310/Kitchen-Appliances/tree/main/documentary
