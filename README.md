@@ -17,7 +17,7 @@ Student1414342  Dương Bình Nhã
 
 ============================
 
-eProject documentation at https://github.com/lnnhi1310/Kitchen-Appliances/tree/main/documentary
+eProject documentation at https://github.com/Khang313/Shrek-Juices/tree/main/document
 
 ============================
 
